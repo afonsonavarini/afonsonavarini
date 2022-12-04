@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=afonsonavarini&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Favorite Quote
+## ✍️ Favorite Random Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
