@@ -1,5 +1,5 @@
 # 📝 About Me:
-📌Afonso Navarini<br>📅 21y<br>🌎 Brazil<br>🎓Computer Science
+📌Afonso Navarini<br>📅 21y<br>🌎 Brazil<br>🎓Computer Science<br>✏️Portuguese, English & Spanish
 
 
 ## 🌐 Socials:
