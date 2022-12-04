@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📝 About Me:
 📌Afonso Navarini<br>📅 21y<br>🌎 Brazil<br>🎓Computer Science
 
 
